@@ -3,7 +3,7 @@
 A Joiner-Mover-Leaver (JML) access review for a fictional 150-person healthcare clinic, mapped to NIST SP 800-53 access controls.
 
 ## Status
-In progress.
+In progress. Started November 2026.
 
 ## What this project will cover
 - A JML access procedure (who approves access, and how fast it is removed)
